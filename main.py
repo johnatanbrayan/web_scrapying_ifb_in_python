@@ -1,4 +1,3 @@
-
 import mineradorDeNoticias as minerador
 import bot
 import os
